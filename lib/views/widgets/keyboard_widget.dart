@@ -47,7 +47,7 @@ class KeyboardWidget extends StatelessWidget {
               onTap: onTap,
             ),
             ButtonWidget(
-              text: 'X',
+              text: 'x',
               onTap: onTap,
               color: ProjectConsts.buttonOperation,
             ),
@@ -100,7 +100,7 @@ class KeyboardWidget extends StatelessWidget {
               bigButton: true,
             ),
             ButtonWidget(
-              text: ',',
+              text: '.',
               onTap: onTap,
             ),
             ButtonWidget(
